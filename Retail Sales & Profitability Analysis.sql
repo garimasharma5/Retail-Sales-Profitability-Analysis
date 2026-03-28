@@ -133,12 +133,4 @@ FROM sales
 GROUP BY product
 ORDER BY product_revenue DESC;
 
-SELECT * FROM sales;
-
-SELECT * 
-FROM retail_sales_project.sales;
-
-SELECT * 
-FROM sales
-LIMIT 1000;
 
